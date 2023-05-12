@@ -1,0 +1,5 @@
+C:\Users\u-119\source\repos\rasmus-veike\Lihtsamad_Rakendused\Mapper\Mapper\obj\Debug\net5.0\Mapper.csprojAssemblyReference.cache
+C:\Users\u-119\source\repos\rasmus-veike\Lihtsamad_Rakendused\Mapper\Mapper\obj\Debug\net5.0\Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u-119\source\repos\rasmus-veike\Lihtsamad_Rakendused\Mapper\Mapper\obj\Debug\net5.0\Mapper.AssemblyInfoInputs.cache
+C:\Users\u-119\source\repos\rasmus-veike\Lihtsamad_Rakendused\Mapper\Mapper\obj\Debug\net5.0\Mapper.AssemblyInfo.cs
+C:\Users\u-119\source\repos\rasmus-veike\Lihtsamad_Rakendused\Mapper\Mapper\obj\Debug\net5.0\Mapper.csproj.CoreCompileInputs.cache

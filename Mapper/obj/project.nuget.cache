@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVztjmvoVeRR39s+Eru9PBPW3qBIPdveSXFcNYfez3LNLCTJIOSzAQEBbYS/6Gr0sBJzGwwdXRjaoynxJJKC2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\u-119\\Source\\Repos\\rasmus-veike\\Lihtsamad_Rakendused\\Mapper\\Mapper\\Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u-119\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\u-119\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
+    "C:\\Users\\u-119\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\u-119\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0\\microsoft.codeanalysis.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\u-119\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\u-119\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\u-119\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\u-119\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
+    "C:\\Users\\u-119\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\u-119\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
